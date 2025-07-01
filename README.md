@@ -34,5 +34,5 @@ This project uses a Teachable Machine-trained model to classify food images into
 ## ✅ Example Output 
 
 
-📸 Predicted class: Healthy Food
+📸 Predicted class: Unhealthy Food
 🔍 Confidence Score: 94.62%
